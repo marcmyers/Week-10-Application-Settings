@@ -3,7 +3,7 @@
 //  ApplicationSettings
 //
 //  Created by Wei-Meng Lee on 3/8/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 Marc A Myers All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -3,7 +3,7 @@
 //  ApplicationSettings
 //
 //  Created by Wei-Meng Lee on 3/8/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Copyright 2011 Marc A Myers All rights reserved.
 //
 
 #import "ApplicationSettingsViewController.h"
@@ -23,9 +23,9 @@ NSString *favoriteColorSelected;
 - (void)viewDidLoad {
     //---create an array containing the colors values---
     colors = [[NSMutableArray alloc] init];
-    [colors addObject:@"Red"];
-    [colors addObject:@"Green"];
-    [colors addObject:@"Blue"];
+    [colors addObject:@"Orange"];
+    [colors addObject:@"Yellow"];
+    [colors addObject:@"Purple"];
     [super viewDidLoad];
 }
 
